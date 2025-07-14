@@ -1160,3 +1160,118 @@ Below are key insights from the **Mezo Unmoderated Usability Study** conducted i
 - **Evidence:** *Usability Feedback - Link*
 - **Next Steps:** Replace with action-based labels like “Yield Opportunities” or “Liquidity”
 - **Linear Issue:** *Link*
+
+---
+
+### [Product][Research Report - Thesis x UX studio]💬 Crypto seen as speculative, users lack clear purpose for holding it
+
+- **Source:** Discovery Research
+- **Team Contributor(s):** Réka Pető, Dorottya Pála
+- **Theme/Topic:** Cryptocurrencies
+- **Impact Level:** 🔥🔥🔥High
+- **Knowledge Gap:** 🔍 Needs more research – What would give users a stronger reason to use crypto instead of just holding it?
+- **Evidence:** *Interview data summary from 24 users*
+- **Next Steps:** Test concepts that connect crypto to everyday use cases
+- **Linear Issue:** *N/A*
+
+### [Product][Research Report - Thesis x UX studio]💬 Neobank users are open to all-in-one platforms, but fear loss of control
+
+- **Source:** Discovery Research
+- **Team Contributor(s):** Réka Pető, Dorottya Pála
+- **Theme/Topic:** Financial Tools
+- **Impact Level:** 🔥🔥Medium
+- **Knowledge Gap:** 🔍 Needs more research – What would a balanced all-in-one finance experience look like?
+- **Evidence:** *User quotes on hesitations and expectations around centralizing financial activities*
+- **Next Steps:** Prototype dashboards that separate risky vs. safe investment tracking
+- **Linear Issue:** *N/A*
+
+### [Product][Research Report - Thesis x UX studio]💬 High interest in separating savings from riskier investments
+
+- **Source:** Discovery Research
+- **Team Contributor(s):** Réka Pető, Dorottya Pála
+- **Theme/Topic:** Investment UX
+- **Impact Level:** 🔥🔥🔥High
+- **Knowledge Gap:** No – Users clearly articulated this need
+- **Evidence:** *User quotes emphasizing the need for visual or wallet separation*
+- **Next Steps:** Design and test ‘Safe vs. Risk’ toggles or wallets
+- **Linear Issue:** *N/A*
+
+### [Product][Research Report - Thesis x UX studio]💬 Users want support, even in self-service apps
+
+- **Source:** Discovery Research
+- **Team Contributor(s):** Réka Pető, Dorottya Pála
+- **Theme/Topic:** Help & Support
+- **Impact Level:** 🔥🔥Medium
+- **Knowledge Gap:** No – Direct user requests for contact/help options
+- **Evidence:** *Interview sections on “knowing someone is there”*
+- **Next Steps:** Add visible help options, chatbot or human
+- **Linear Issue:** *N/A*
+
+### [Product][Research Report - Thesis x UX studio]💬 Fees in neobanks and crypto platforms often unclear
+
+- **Source:** Discovery Research
+- **Team Contributor(s):** Réka Pető, Dorottya Pála
+- **Theme/Topic:** Transparency
+- **Impact Level:** 🔥🔥🔥High
+- **Knowledge Gap:** No – Users mentioned this spontaneously across interviews
+- **Evidence:** *User feedback on Revolut and crypto platforms*
+- **Next Steps:** Explore fee breakdowns and transparency nudges
+- **Linear Issue:** *N/A*
+
+### [Product][Research Report - Thesis x UX studio]💬 Strong emotional reactions to too much data at once
+
+- **Source:** Discovery Research
+- **Team Contributor(s):** Réka Pető, Dorottya Pála
+- **Theme/Topic:** Visual Clarity
+- **Impact Level:** 🔥🔥Medium
+- **Knowledge Gap:** 🔍 Needs more research – What visual density thresholds overwhelm users?
+- **Evidence:** *User quotes on visual stress with complex apps*
+- **Next Steps:** A/B test simplified layouts and progressive disclosure
+- **Linear Issue:** *N/A*
+
+### [Product][Research Report - Thesis x UX studio]💬 Excel still dominates for financial overview
+
+- **Source:** Discovery Research
+- **Team Contributor(s):** Réka Pető, Dorottya Pála
+- **Theme/Topic:** Tracking & Control
+- **Impact Level:** 🔥🔥🔥High
+- **Knowledge Gap:** No – Users explained why Excel meets their control needs
+- **Evidence:** *Multiple user mentions of manual tracking*
+- **Next Steps:** Prototype integrated “Excel-lite” features
+- **Linear Issue:** *N/A*
+
+### [Product][Research Report - Thesis x UX studio]💬 Users want platform trust signals beyond branding
+
+- **Source:** Discovery Research
+- **Team Contributor(s):** Réka Pető, Dorottya Pála
+- **Theme/Topic:** Trust
+- **Impact Level:** 🔥🔥🔥🔥Critical
+- **Knowledge Gap:** 🔍 Needs more research – What builds trust for first-time users in new platforms?
+- **Evidence:** *Participants asking for “proof” of legitimacy*
+- **Next Steps:** Test visual cues, transparent about pages, and badges
+- **Linear Issue:** *N/A*
+
+### [Product][Research Report - Thesis x UX studio]💬 Users mix digital and traditional banks for different needs
+
+- **Source:** Discovery Research
+- **Team Contributor(s):** Réka Pető, Dorottya Pála
+- **Theme/Topic:** Financial Behavior
+- **Impact Level:** 🔥🔥Medium
+- **Knowledge Gap:** No – Clear from behavior segmentation
+- **Evidence:** *Quotes describing bank switching based on purpose*
+- **Next Steps:** Lean into use-case-focused banking flows
+- **Linear Issue:** *N/A*
+
+### [Product][Research Report - Thesis x UX studio]💬 Crypto treated more as investment than currency
+
+- **Source:** Discovery Research
+- **Team Contributor(s):** Réka Pető, Dorottya Pála
+- **Theme/Topic:** Crypto Use
+- **Impact Level:** 🔥🔥🔥High
+- **Knowledge Gap:** No – Consistent sentiment across interviews
+- **Evidence:** *Most interviewees use it for long-term holds*
+- **Next Steps:** Consider long-hold benefits like yield, auto DCA
+- **Linear Issue:** *N/A*
+
+---
+
