@@ -1,3 +1,133 @@
+### [Product][Mezo User Study]💬 Confusion around BTC collateral origin and security
+
+- **Source:** Mezo User Study
+- **Team Contributor(s):** Sasha Tanase, Daniel Horvath
+- **Theme/Topic:** BTC Collateral
+- **Impact Level:** 🔥🔥🔥🔥Critical
+- **Knowledge Gap:** 🔍 Needs more research – Users consistently asked whether the BTC is native, wrapped, or where it's held.
+- **Evidence:** *"So this BTC is wrapped?" / "Where does it actually go?"*
+- **Next Steps:** Provide clear educational overlay on custody and tokenization (e.g. tBTC).
+- **Linear Issue:** *Pending*
+
+---
+
+### [Product][Mezo User Study]💬 Users don't understand liquidation thresholds
+
+- **Source:** Mezo User Study
+- **Team Contributor(s):** Sasha Tanase, Daniel Horvath
+- **Theme/Topic:** Liquidation UX
+- **Impact Level:** 🔥🔥🔥🔥Critical
+- **Knowledge Gap:** 🔍 Needs more research – We need to know if users are confused by the math, the terminology, or risk behavior.
+- **Evidence:** *“How close is too close?” / “Is liquidation instant?”*
+- **Next Steps:** Add visual LTV sliders and safe zone indicators.
+- **Linear Issue:** *Pending*
+
+---
+
+### [Product][Mezo User Study]💬 Multiple users asked if they are earning yield while borrowing
+
+- **Source:** Mezo User Study
+- **Team Contributor(s):** Sasha Tanase, Daniel Horvath
+- **Theme/Topic:** Borrowing Misunderstanding
+- **Impact Level:** 🔥🔥🔥High
+- **Knowledge Gap:** 🔍 Needs more research – Users were unclear on whether borrowed funds also earn yield; this could reflect poor copy or DeFi assumptions.
+- **Evidence:** *“So I’m getting interest here?”*
+- **Next Steps:** Clarify yield vs. interest payment expectations in the borrow flow.
+- **Linear Issue:** *Pending*
+
+---
+
+### [Product][Mezo User Study]💬 No clear understanding of when assets become collateralized
+
+- **Source:** Mezo User Study
+- **Team Contributor(s):** Sasha Tanase, Daniel Horvath
+- **Theme/Topic:** Collateral Timing
+- **Impact Level:** 🔥🔥🔥High
+- **Knowledge Gap:** 🔍 Needs more research – Users don’t understand the moment when deposited BTC becomes locked.
+- **Evidence:** *“Is it locked now?”*
+- **Next Steps:** Add step-by-step flow showing collateralization status and confirmation.
+- **Linear Issue:** *Pending*
+
+---
+
+### [Product][Mezo User Study]💬 Participants confused about loan duration or repayment timelines
+
+- **Source:** Mezo User Study
+- **Team Contributor(s):** Sasha Tanase, Daniel Horvath
+- **Theme/Topic:** Loan Terms
+- **Impact Level:** 🔥🔥🔥High
+- **Knowledge Gap:** No
+- **Evidence:** *“How long do I have until I repay?”*
+- **Next Steps:** Add a timeline UI element for loan term, with countdown logic.
+- **Linear Issue:** *Pending*
+
+---
+
+### [Product][Mezo User Study]💬 Sliders were preferred to numeric entry for setting loan parameters
+
+- **Source:** Mezo User Study
+- **Team Contributor(s):** Sasha Tanase, Daniel Horvath
+- **Theme/Topic:** Loan UI Controls
+- **Impact Level:** 🔥🔥Medium
+- **Knowledge Gap:** No
+- **Evidence:** *“I like sliders better, less thinking.”*
+- **Next Steps:** Use slider-based controls and allow manual override for power users.
+- **Linear Issue:** *Pending*
+
+---
+
+### [Product][Mezo User Study]💬 Users expect “safe to borrow” hints or presets
+
+- **Source:** Mezo User Study
+- **Team Contributor(s):** Sasha Tanase, Daniel Horvath
+- **Theme/Topic:** Borrow UX
+- **Impact Level:** 🔥🔥🔥High
+- **Knowledge Gap:** No
+- **Evidence:** *“Can you tell me what’s safe to borrow?”*
+- **Next Steps:** Display safe borrow presets and max thresholds with risk coloring.
+- **Linear Issue:** *Pending*
+
+---
+
+### [Product][Mezo User Study]💬 Lack of confirmation about loan health post-deposit
+
+- **Source:** Mezo User Study
+- **Team Contributor(s):** Sasha Tanase, Daniel Horvath
+- **Theme/Topic:** UX Feedback
+- **Impact Level:** 🔥🔥🔥High
+- **Knowledge Gap:** 🔍 Needs more research – We’re unsure if users want data visualization, alerts, or just reassurance text.
+- **Evidence:** *“Is this safe now?”*
+- **Next Steps:** Add real-time health meter or loan status card.
+- **Linear Issue:** *Pending*
+
+---
+
+### [Product][Mezo User Study]💬 Some users were unclear about gas fees vs. protocol fees
+
+- **Source:** Mezo User Study
+- **Team Contributor(s):** Sasha Tanase, Daniel Horvath
+- **Theme/Topic:** Fees
+- **Impact Level:** 🔥🔥Medium
+- **Knowledge Gap:** 🔍 Needs more research – Do users interpret all transaction costs as Mezo’s fee?
+- **Evidence:** *“So this goes to Mezo?”*
+- **Next Steps:** Break out network vs. protocol fee in interface.
+- **Linear Issue:** *Pending*
+
+---
+
+### [Product][Mezo User Study]💬 Misunderstanding about BTC being redeemable anytime
+
+- **Source:** Mezo User Study
+- **Team Contributor(s):** Sasha Tanase, Daniel Horvath
+- **Theme/Topic:** Withdrawals
+- **Impact Level:** 🔥🔥🔥High
+- **Knowledge Gap:** 🔍 Needs more research – We need to test messaging around redemption timing and requirements.
+- **Evidence:** *“I can just withdraw right?”*
+- **Next Steps:** Add unlock condition messaging and delay explanations to withdrawal UI.
+- **Linear Issue:** *Pending*
+
+---
+
 ### [Product][PowerUser/Degen Mezo Testing]💬 Username feels un-DeFi; should be optional or reframed
 
 - **Source:** PowerUser/Degen Mezo Testing
@@ -35,6 +165,134 @@
 - **Linear Issue:** *Link*
 
 ---
+
+### [Product][Mezo User Study]💬 Confusion around BTC collateral origin and security
+
+- **Source:** Mezo User Study
+- **Team Contributor(s):** Sasha Tanase, Daniel Horvath
+- **Theme/Topic:** BTC Collateral
+- **Impact Level:** 🔥🔥🔥🔥Critical
+- **Knowledge Gap:** 🔍 Needs more research – Users consistently asked whether the BTC is native, wrapped, or where it's held.
+- **Evidence:** *"So this BTC is wrapped?" / "Where does it actually go?"*
+- **Next Steps:** Provide clear educational overlay on custody and tokenization (e.g. tBTC).
+- **Linear Issue:** *Pending*
+
+---
+
+### [Product][Mezo User Study]💬 Users don't understand liquidation thresholds
+
+- **Source:** Mezo User Study
+- **Team Contributor(s):** Sasha Tanase, Daniel Horvath
+- **Theme/Topic:** Liquidation UX
+- **Impact Level:** 🔥🔥🔥🔥Critical
+- **Knowledge Gap:** 🔍 Needs more research – We need to know if users are confused by the math, the terminology, or risk behavior.
+- **Evidence:** *“How close is too close?” / “Is liquidation instant?”*
+- **Next Steps:** Add visual LTV sliders and safe zone indicators.
+- **Linear Issue:** *Pending*
+
+---
+
+### [Product][Mezo User Study]💬 Multiple users asked if they are earning yield while borrowing
+
+- **Source:** Mezo User Study
+- **Team Contributor(s):** Sasha Tanase, Daniel Horvath
+- **Theme/Topic:** Borrowing Misunderstanding
+- **Impact Level:** 🔥🔥🔥High
+- **Knowledge Gap:** 🔍 Needs more research – Users were unclear on whether borrowed funds also earn yield; this could reflect poor copy or DeFi assumptions.
+- **Evidence:** *“So I’m getting interest here?”*
+- **Next Steps:** Clarify yield vs. interest payment expectations in the borrow flow.
+- **Linear Issue:** *Pending*
+
+---
+
+### [Product][Mezo User Study]💬 No clear understanding of when assets become collateralized
+
+- **Source:** Mezo User Study
+- **Team Contributor(s):** Sasha Tanase, Daniel Horvath
+- **Theme/Topic:** Collateral Timing
+- **Impact Level:** 🔥🔥🔥High
+- **Knowledge Gap:** 🔍 Needs more research – Users don’t understand the moment when deposited BTC becomes locked.
+- **Evidence:** *“Is it locked now?”*
+- **Next Steps:** Add step-by-step flow showing collateralization status and confirmation.
+- **Linear Issue:** *Pending*
+
+---
+
+### [Product][Mezo User Study]💬 Participants confused about loan duration or repayment timelines
+
+- **Source:** Mezo User Study
+- **Team Contributor(s):** Sasha Tanase, Daniel Horvath
+- **Theme/Topic:** Loan Terms
+- **Impact Level:** 🔥🔥🔥High
+- **Knowledge Gap:** No
+- **Evidence:** *“How long do I have until I repay?”*
+- **Next Steps:** Add a timeline UI element for loan term, with countdown logic.
+- **Linear Issue:** *Pending*
+
+---
+
+### [Product][Mezo User Study]💬 Sliders were preferred to numeric entry for setting loan parameters
+
+- **Source:** Mezo User Study
+- **Team Contributor(s):** Sasha Tanase, Daniel Horvath
+- **Theme/Topic:** Loan UI Controls
+- **Impact Level:** 🔥🔥Medium
+- **Knowledge Gap:** No
+- **Evidence:** *“I like sliders better, less thinking.”*
+- **Next Steps:** Use slider-based controls and allow manual override for power users.
+- **Linear Issue:** *Pending*
+
+---
+
+### [Product][Mezo User Study]💬 Users expect “safe to borrow” hints or presets
+
+- **Source:** Mezo User Study
+- **Team Contributor(s):** Sasha Tanase, Daniel Horvath
+- **Theme/Topic:** Borrow UX
+- **Impact Level:** 🔥🔥🔥High
+- **Knowledge Gap:** No
+- **Evidence:** *“Can you tell me what’s safe to borrow?”*
+- **Next Steps:** Display safe borrow presets and max thresholds with risk coloring.
+- **Linear Issue:** *Pending*
+
+---
+
+### [Product][Mezo User Study]💬 Lack of confirmation about loan health post-deposit
+
+- **Source:** Mezo User Study
+- **Team Contributor(s):** Sasha Tanase, Daniel Horvath
+- **Theme/Topic:** UX Feedback
+- **Impact Level:** 🔥🔥🔥High
+- **Knowledge Gap:** 🔍 Needs more research – We’re unsure if users want data visualization, alerts, or just reassurance text.
+- **Evidence:** *“Is this safe now?”*
+- **Next Steps:** Add real-time health meter or loan status card.
+- **Linear Issue:** *Pending*
+
+---
+
+### [Product][Mezo User Study]💬 Some users were unclear about gas fees vs. protocol fees
+
+- **Source:** Mezo User Study
+- **Team Contributor(s):** Sasha Tanase, Daniel Horvath
+- **Theme/Topic:** Fees
+- **Impact Level:** 🔥🔥Medium
+- **Knowledge Gap:** 🔍 Needs more research – Do users interpret all transaction costs as Mezo’s fee?
+- **Evidence:** *“So this goes to Mezo?”*
+- **Next Steps:** Break out network vs. protocol fee in interface.
+- **Linear Issue:** *Pending*
+
+---
+
+### [Product][Mezo User Study]💬 Misunderstanding about BTC being redeemable anytime
+
+- **Source:** Mezo User Study
+- **Team Contributor(s):** Sasha Tanase, Daniel Horvath
+- **Theme/Topic:** Withdrawals
+- **Impact Level:** 🔥🔥🔥High
+- **Knowledge Gap:** 🔍 Needs more research – We need to test messaging around redemption timing and requirements.
+- **Evidence:** *“I can just withdraw right?”*
+- **Next Steps:** Add unlock condition messaging and delay explanations to withdrawal UI.
+- **Linear Issue:** *Pending*
 
 ### [Product] 💬 Re-signing required often, frustrating Ledger users
 
@@ -577,6 +835,182 @@
 - **Evidence:** *“It’s hard to type these amounts on mobile”*  
 - **Next Steps:** Improve touch inputs, add numeric presets and default options.  
 - **Linear Issue:** *Pending*
+
+---
+
+
+# Acre Hybrid User Study – Research Insights
+
+Below are synthesized insights from the **Acre Hybrid User Study (August 2024)**.
+
+---
+
+### [Product][Acre Hybrid User Study]💬 Users struggle to understand how BTC staking works
+
+- **Source:** Acre Hybrid User Study
+- **Team Contributor(s):** Sasha Tanase, Daniel Horvath
+- **Theme/Topic:** Staking / Mental Models
+- **Impact Level:** 🔥🔥🔥High
+- **Knowledge Gap:** 🔍 Needs more research – Users associate staking with PoS and find it hard to map onto Bitcoin.
+- **Evidence:** *User Interviews - Link*
+- **Next Steps:** Create a clear explanation of how staking works in PoW context
+- **Linear Issue:** *Link*
+
+---
+
+### [Product][Acre Hybrid User Study]💬 Lack of APR info is a major friction point
+
+- **Source:** Acre Hybrid User Study
+- **Team Contributor(s):** Sasha Tanase, Daniel Horvath
+- **Theme/Topic:** Rewards / Yield Expectations
+- **Impact Level:** 🔥🔥🔥🔥Critical
+- **Knowledge Gap:** 🔍 Needs more research – Users don’t know if points = yield or if BTC yield exists.
+- **Evidence:** *User Interviews - Link*
+- **Next Steps:** Show APR/estimates alongside point rewards
+- **Linear Issue:** *Link*
+
+---
+
+### [Product][Acre Hybrid User Study]💬 Users thought the access key was an NFT
+
+- **Source:** Acre Hybrid User Study
+- **Team Contributor(s):** Sasha Tanase, Daniel Horvath
+- **Theme/Topic:** Onboarding Friction
+- **Impact Level:** 🔥🔥🔥High
+- **Knowledge Gap:** No – We understand the misunderstanding, just need to reframe
+- **Evidence:** *User Interviews - Link*
+- **Next Steps:** Clarify what the access key is, when and how it's needed
+- **Linear Issue:** *Link*
+
+---
+
+### [Product][Acre Hybrid User Study]💬 Point systems split user sentiment
+
+- **Source:** Acre Hybrid User Study
+- **Team Contributor(s):** Sasha Tanase, Daniel Horvath
+- **Theme/Topic:** Incentives / UX Strategy
+- **Impact Level:** 🔥🔥Medium
+- **Knowledge Gap:** No – User needs and preferences were clearly articulated
+- **Evidence:** *User Interviews - Link*
+- **Next Steps:** Segment users by incentive type and customize how points are framed
+- **Linear Issue:** *Link*
+
+---
+
+### [Product][Acre Hybrid User Study]💬 Users expect TVL stat, respond well to urgency
+
+- **Source:** Acre Hybrid User Study
+- **Team Contributor(s):** Sasha Tanase, Daniel Horvath
+- **Theme/Topic:** Social Proof
+- **Impact Level:** 💓Positive
+- **Knowledge Gap:** No – Consistent reaction observed
+- **Evidence:** *User Interviews - Link*
+- **Next Steps:** Consider emphasizing the season cap as urgency mechanism
+- **Linear Issue:** *Link*
+
+---
+
+### [Product][Acre Hybrid User Study]💬 Users compare fees against unclear yield
+
+- **Source:** Acre Hybrid User Study
+- **Team Contributor(s):** Sasha Tanase, Daniel Horvath
+- **Theme/Topic:** Cost Clarity
+- **Impact Level:** 🔥🔥🔥High
+- **Knowledge Gap:** 🔍 Needs more research – Users unsure how to weigh point rewards vs. fees
+- **Evidence:** *User Interviews - Link*
+- **Next Steps:** Visualize estimated return timeline alongside cost breakdown
+- **Linear Issue:** *Link*
+
+---
+
+### [Product][Acre Hybrid User Study]💬 Users assume withdrawal fee equals deposit fee
+
+- **Source:** Acre Hybrid User Study
+- **Team Contributor(s):** Sasha Tanase, Daniel Horvath
+- **Theme/Topic:** UX Expectations
+- **Impact Level:** 🔥🔥Medium
+- **Knowledge Gap:** No – Easily solved with better framing
+- **Evidence:** *User Interviews - Link*
+- **Next Steps:** Set expectation that withdrawal fees are lower
+- **Linear Issue:** *Link*
+
+---
+
+### [Product][Acre Hybrid User Study]💬 “Building withdrawal data” caused confusion
+
+- **Source:** Acre Hybrid User Study
+- **Team Contributor(s):** Sasha Tanase, Daniel Horvath
+- **Theme/Topic:** Terminology
+- **Impact Level:** 🔥🔥Medium
+- **Knowledge Gap:** No – Clear feedback on phrasing
+- **Evidence:** *User Interviews - Link*
+- **Next Steps:** Use simpler language to describe backend withdrawal logic
+- **Linear Issue:** *Link*
+
+---
+
+### [Product][Acre Hybrid User Study]💬 Users need estimated times for BTC transactions
+
+- **Source:** Acre Hybrid User Study
+- **Team Contributor(s):** Sasha Tanase, Daniel Horvath
+- **Theme/Topic:** Trust / Transparency
+- **Impact Level:** 🔥🔥🔥High
+- **Knowledge Gap:** No – User behavior clearly demonstrated anxiety during wait
+- **Evidence:** *User Interviews - Link*
+- **Next Steps:** Add estimated time or “expected delay” content
+- **Linear Issue:** *Link*
+
+---
+
+### [Product][Acre Hybrid User Study]💬 Desktop is still preferred over mobile
+
+- **Source:** Acre Hybrid User Study
+- **Team Contributor(s):** Sasha Tanase, Daniel Horvath
+- **Theme/Topic:** Platform Preferences
+- **Impact Level:** 😊Passive
+- **Knowledge Gap:** No – User preference is clearly documented
+- **Evidence:** *User Interviews - Link*
+- **Next Steps:** Prioritize desktop UX polish over mobile
+- **Linear Issue:** *Link*
+
+---
+
+### [Product][Acre Hybrid User Study]💬 Users rely on docs, social signals for trust
+
+- **Source:** Acre Hybrid User Study
+- **Team Contributor(s):** Sasha Tanase, Daniel Horvath
+- **Theme/Topic:** Trust & Safety
+- **Impact Level:** 🔥🔥🔥High
+- **Knowledge Gap:** 🔍 Needs more research – Specific signals that drive trust vary widely
+- **Evidence:** *User Interviews - Link*
+- **Next Steps:** Research trust-building signals in Bitcoin DeFi further
+- **Linear Issue:** *Link*
+
+---
+
+### [Product][Acre Hybrid User Study]💬 Dashboard redesign improved sentiment dramatically
+
+- **Source:** Acre Hybrid User Study
+- **Team Contributor(s):** Sasha Tanase, Daniel Horvath
+- **Theme/Topic:** UI Feedback
+- **Impact Level:** 💓Positive
+- **Knowledge Gap:** No – Positive shift in perception clearly stated
+- **Evidence:** *User Interviews - Link*
+- **Next Steps:** Ship redesigned dashboard and phase out earlier version
+- **Linear Issue:** *Link*
+
+---
+
+### [Product][Acre Hybrid User Study]💬 Social proof elements didn’t always land
+
+- **Source:** Acre Hybrid User Study
+- **Team Contributor(s):** Sasha Tanase, Daniel Horvath
+- **Theme/Topic:** Social Proof
+- **Impact Level:** 🔥🔥Medium
+- **Knowledge Gap:** 🔍 Needs more research – Which partners/users resonate with which segments?
+- **Evidence:** *User Interviews - Link*
+- **Next Steps:** A/B test partner logos with context or community cues
+- **Linear Issue:** *Link*
 
 ---
 
