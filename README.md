@@ -1,5 +1,5 @@
 # Insights-repository 
-A unified repository for all our research insights—from usability studies to market feedback.
+A unified repository for all our research insights from usability studies to market feedback.
 
 It serves as a central source of truth for both Product and Marketing, helping us capture patterns, themes, and quotes across all user touchpoints.
 
