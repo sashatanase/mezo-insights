@@ -45,7 +45,8 @@ insights-repo/
 
 ## 🧠 Insight Format (JSON Example)
 
-```json
+```
+json
 {
   "id": "insight-042",
   "quote": "I had no idea the APR would change after I deposited.",
@@ -54,6 +55,7 @@ insights-repo/
   "source": "interview-2025-07-01.pdf",
   "user_type": "Yield Maximizer"
 }
+```
 
 ## 🤝 How to Contribute
 
