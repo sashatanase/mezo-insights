@@ -1,5 +1,9 @@
-# Insights-repository-
-A repo aggregating all our study insights - hopefully adding to it as well DATA + MARKETING 
+# Insights-repository 
+A unified repository for all our research insights—from usability studies to market feedback.
+
+It serves as a central source of truth for both Product and Marketing, helping us capture patterns, themes, and quotes across all user touchpoints.
+
+Our goal is not just to archive insights, but to build a growing, structured, and reusable dataset that informs design, messaging, and growth strategies.
 
 # 🧠 Mezo Insights Repository
 
