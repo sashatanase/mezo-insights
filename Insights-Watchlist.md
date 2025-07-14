@@ -1014,3 +1014,149 @@ Below are synthesized insights from the **Acre Hybrid User Study (August 2024)**
 
 ---
 
+# Mezo Unmoderated Usability Study – Research Insights
+
+Below are key insights from the **Mezo Unmoderated Usability Study** conducted in February 2025.
+
+---
+
+### [Product][Mezo Unmoderated Usability Study]💬 Borrow, Earn, Deposit consistently mapped to 'Bank'
+
+- **Source:** Mezo Unmoderated Usability Study
+- **Team Contributor(s):** Sasha Tanase Luca
+- **Theme/Topic:** Information Architecture
+- **Impact Level:** 💓Positive
+- **Knowledge Gap:** No
+- **Evidence:** *Card Sorting - Link*
+- **Next Steps:** Retain current category for these features
+- **Linear Issue:** *Link*
+
+---
+
+### [Product][Mezo Unmoderated Usability Study]💬 Liquidity Pools & Incentivize Pools create confusion
+
+- **Source:** Mezo Unmoderated Usability Study
+- **Team Contributor(s):** Sasha Tanase Luca
+- **Theme/Topic:** Feature Categorization
+- **Impact Level:** 🔥🔥🔥High
+- **Knowledge Gap:** 🔍 Needs more research – Users placed them across Bank, Explore, and Govern.
+- **Evidence:** *Card Sorting - Link*
+- **Next Steps:** Rename features or add tooltips for clarity
+- **Linear Issue:** *Link*
+
+---
+
+### [Product][Mezo Unmoderated Usability Study]💬 Users split on where 'Swap' belongs
+
+- **Source:** Mezo Unmoderated Usability Study
+- **Team Contributor(s):** Sasha Tanase Luca
+- **Theme/Topic:** Feature Categorization
+- **Impact Level:** 🔥🔥Medium
+- **Knowledge Gap:** 🔍 Needs more research – Interpretations vary: Bank vs Explore
+- **Evidence:** *Card Sorting - Link*
+- **Next Steps:** Consider dual-placement or clear labeling
+- **Linear Issue:** *Link*
+
+---
+
+### [Product][Mezo Unmoderated Usability Study]💬 Users uncertain about 'Send' feature placement
+
+- **Source:** Mezo Unmoderated Usability Study
+- **Team Contributor(s):** Sasha Tanase Luca
+- **Theme/Topic:** Feature Categorization
+- **Impact Level:** 🔥🔥Medium
+- **Knowledge Gap:** 🔍 Needs more research – Split between Bank, Explore, and Govern
+- **Evidence:** *Card Sorting - Link*
+- **Next Steps:** Clarify 'Send' with context and tooltip
+- **Linear Issue:** *Link*
+
+---
+
+### [Product][Mezo Unmoderated Usability Study]💬 Staking vs Delegation split confuses users
+
+- **Source:** Mezo Unmoderated Usability Study
+- **Team Contributor(s):** Sasha Tanase Luca
+- **Theme/Topic:** Navigation/IA
+- **Impact Level:** 🔥🔥🔥High
+- **Knowledge Gap:** 🔍 Needs more research – Users interpret staking as both financial and governance
+- **Evidence:** *Tree Testing - Link*
+- **Next Steps:** Split into two distinct actions: Stake (yield) and Delegate (vote)
+- **Linear Issue:** *Link*
+
+---
+
+### [Product][Mezo Unmoderated Usability Study]💬 100% success in nav tasks, but misclicks show UI friction
+
+- **Source:** Mezo Unmoderated Usability Study
+- **Team Contributor(s):** Sasha Tanase Luca
+- **Theme/Topic:** Navigation Performance
+- **Impact Level:** 💓Positive
+- **Knowledge Gap:** No
+- **Evidence:** *Tree Testing Results - Link*
+- **Next Steps:** Improve button clarity, add tooltips to reduce hesitation
+- **Linear Issue:** *Link*
+
+---
+
+### [Product][Mezo Unmoderated Usability Study]💬 ‘Withdraw’ not visible enough for some users
+
+- **Source:** Mezo Unmoderated Usability Study
+- **Team Contributor(s):** Sasha Tanase Luca
+- **Theme/Topic:** IA / Navigation Gaps
+- **Impact Level:** 🔥🔥🔥High
+- **Knowledge Gap:** 🔍 Needs more research – Only one user mentioned it, but it's a critical action
+- **Evidence:** *Usability Feedback - Link*
+- **Next Steps:** Make 'Withdraw' a prominent action
+- **Linear Issue:** *Link*
+
+---
+
+### [Product][Mezo Unmoderated Usability Study]💬 ‘Advanced Borrow’ terminology is unclear
+
+- **Source:** Mezo Unmoderated Usability Study
+- **Team Contributor(s):** Sasha Tanase Luca
+- **Theme/Topic:** Terminology / Borrow UX
+- **Impact Level:** 🔥🔥🔥High
+- **Knowledge Gap:** 🔍 Needs more research – Multiple users had different expectations
+- **Evidence:** *Raw Quotes - Link*
+- **Next Steps:** Clarify 'Advanced Borrow' with subtext or explainer modal
+- **Linear Issue:** *Link*
+
+---
+
+### [Product][Mezo Unmoderated Usability Study]💬 ‘Govern’ as a term lacks clarity for some users
+
+- **Source:** Mezo Unmoderated Usability Study
+- **Team Contributor(s):** Sasha Tanase Luca
+- **Theme/Topic:** Navigation Labels
+- **Impact Level:** 🔥🔥Medium
+- **Knowledge Gap:** 🔍 Needs more research – Some interpreted it as DeFi voting, others didn’t know
+- **Evidence:** *Preference Testing - Link*
+- **Next Steps:** Add tooltips or rename for clarity
+- **Linear Issue:** *Link*
+
+---
+
+### [Product][Mezo Unmoderated Usability Study]💬 No clear nav structure preference: side vs dropdown split evenly
+
+- **Source:** Mezo Unmoderated Usability Study
+- **Team Contributor(s):** Sasha Tanase Luca
+- **Theme/Topic:** Navigation Patterns
+- **Impact Level:** 😊Passive
+- **Knowledge Gap:** No
+- **Evidence:** *A/B Navigation Test - Link*
+- **Next Steps:** Explore hybrid approach: top nav + side detail
+- **Linear Issue:** *Link*
+
+---
+
+### [Product][Mezo Unmoderated Usability Study]💬 DeFi label is vague and interpreted differently
+
+- **Source:** Mezo Unmoderated Usability Study
+- **Team Contributor(s):** Sasha Tanase Luca
+- **Theme/Topic:** Terminology
+- **Impact Level:** 🔥🔥Medium
+- **Knowledge Gap:** 🔍 Needs more research – Users unsure if it refers to yield farming, DEXs, or liquidity pools
+- **Evidence:** *Usability Feedback - Link*
+- **Next Steps:** Replace with action-based labels like “Yield Opportunities” or “Liquidity”
+- **Linear Issue:** *Link*
