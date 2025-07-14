@@ -1275,3 +1275,200 @@ Below are key insights from the **Mezo Unmoderated Usability Study** conducted i
 
 ---
 
+# [Product][tBTC Generative User Research] Research Insights
+
+### [Product][tBTC Generative User Research]💬 Users deeply mistrust bridges and view them as the most dangerous blockchain component.
+
+- **Source:** User Interviews
+- **Team Contributor(s):** Sasha Tanase Luca
+- **Theme/Topic:** Bridge Trust
+- **Impact Level:** 🔥🔥🔥🔥Critical
+- **Knowledge Gap:** Yes 🔍 Needs more research – we need to understand what would actually rebuild trust in bridges.
+- **Evidence:** *Participant 6, Participant 12*
+- **Next Steps:** Design transparent UX elements that explain bridge security and audits.
+- **Linear Issue:** *Link*
+
+---
+
+### [Product][tBTC Generative User Research]💬 Users prioritize liquidity and DeFi compatibility over decentralization when choosing wrapped BTC.
+
+- **Source:** User Interviews
+- **Team Contributor(s):** Sasha Tanase Luca
+- **Theme/Topic:** Token Selection
+- **Impact Level:** 🔥🔥🔥 High
+- **Knowledge Gap:** No
+- **Evidence:** *Choosing a Token section*
+- **Next Steps:** Integrate tBTC with high-liquidity DEXs or lending protocols.
+- **Linear Issue:** *Link*
+
+---
+
+### [Product][tBTC Generative User Research]💬 WBTC is used despite centralization concerns due to liquidity and established presence.
+
+- **Source:** User Interviews
+- **Team Contributor(s):** Sasha Tanase Luca
+- **Theme/Topic:** User Behavior
+- **Impact Level:** 🔥🔥🔥 High
+- **Knowledge Gap:** No
+- **Evidence:** *Familiarity Bias insight*
+- **Next Steps:** Integrate tBTC with high-liquidity DEXs or lending protocols.
+- **Linear Issue:** *Link*
+
+---
+
+### [Product][tBTC Generative User Research]💬 Bridging duration creates anxiety and is perceived as a risk.
+
+- **Source:** User Interviews
+- **Team Contributor(s):** Sasha Tanase Luca
+- **Theme/Topic:** Bridge UX
+- **Impact Level:** 🔥🔥🔥 High
+- **Knowledge Gap:** Yes 🔍 Needs more research – is there a ‘safe zone’ duration users can tolerate?
+- **Evidence:** *Bridge Duration section*
+- **Next Steps:** Test time expectations and show average bridge durations to set user expectations.
+- **Linear Issue:** *Link*
+
+---
+
+### [Product][tBTC Generative User Research]💬 Users want bridges to provide more feedback and transparent information.
+
+- **Source:** User Interviews
+- **Team Contributor(s):** Sasha Tanase Luca
+- **Theme/Topic:** Bridge UX
+- **Impact Level:** 🔥🔥🔥 High
+- **Knowledge Gap:** No
+- **Evidence:** *Safety Reinforcements section*
+- **Next Steps:** Add real-time UI feedback during bridge steps (status, hash, confirmations).
+- **Linear Issue:** *Link*
+
+---
+
+### [Product][tBTC Generative User Research]💬 Social proof and community trust play a huge role in product adoption.
+
+- **Source:** User Interviews
+- **Team Contributor(s):** Sasha Tanase Luca
+- **Theme/Topic:** Trust Signals
+- **Impact Level:** 🔥🔥Medium
+- **Knowledge Gap:** No
+- **Evidence:** *Choosing a Product section*
+- **Next Steps:** Design transparent UX elements that explain bridge security and audits.
+- **Linear Issue:** *Link*
+
+---
+
+### [Product][tBTC Generative User Research]💬 Users want bridges to allow large BTC transfers in one go to avoid extra gas fees.
+
+- **Source:** User Interviews
+- **Team Contributor(s):** Sasha Tanase Luca
+- **Theme/Topic:** Bridge UX
+- **Impact Level:** 🔥🔥Medium
+- **Knowledge Gap:** Yes 🔍 Needs more research – what is the upper limit users are comfortable with?
+- **Evidence:** *Bridge UX feedback*
+- **Next Steps:** Allow users to preview fees and limits before initiating large transfers.
+- **Linear Issue:** *Link*
+
+---
+
+### [Product][tBTC Generative User Research]💬 Participants noted workaround strategies, like swapping to tBTC for speed.
+
+- **Source:** User Interviews
+- **Team Contributor(s):** Sasha Tanase Luca
+- **Theme/Topic:** User Behavior
+- **Impact Level:** 🔥Medium
+- **Knowledge Gap:** No
+- **Evidence:** *Shortcut noticed - Duration*
+- **Next Steps:** Explore targeted UX improvements based on user feedback.
+- **Linear Issue:** *Link*
+
+---
+
+### [Product][tBTC Generative User Research]💬 tBTC bridge users report buggy UX and unclear errors.
+
+- **Source:** User Interviews
+- **Team Contributor(s):** Sasha Tanase Luca
+- **Theme/Topic:** Bridge UX
+- **Impact Level:** 🔥🔥🔥 High
+- **Knowledge Gap:** Yes 🔍 Needs more research – what specific pain points cause drop-off?
+- **Evidence:** *tBTC Bridge section*
+- **Next Steps:** Conduct a usability audit of the tBTC bridge UI and prioritize error clarity.
+- **Linear Issue:** *Link*
+
+---
+
+### [Product][tBTC Generative User Research]💬 Participants often leave assets bridged for years; unminting is rare.
+
+- **Source:** User Interviews
+- **Team Contributor(s):** Sasha Tanase Luca
+- **Theme/Topic:** User Behavior
+- **Impact Level:** 🔥🔥 Medium
+- **Knowledge Gap:** No
+- **Evidence:** *Unminting section*
+- **Next Steps:** Explore targeted UX improvements based on user feedback.
+- **Linear Issue:** *Link*
+
+---
+
+### [Product][tBTC Generative User Research]💬 Most users avoid KYC if possible due to privacy concerns.
+
+- **Source:** User Interviews
+- **Team Contributor(s):** Sasha Tanase Luca
+- **Theme/Topic:** KYC / Privacy
+- **Impact Level:** 🔥🔥 Medium
+- **Knowledge Gap:** Yes 🔍 Needs more research – what types of KYC methods are tolerated?
+- **Evidence:** *KYC section*
+- **Next Steps:** Explore targeted UX improvements based on user feedback.
+- **Linear Issue:** *Link*
+
+---
+
+### [Product][tBTC Generative User Research]💬 Users consider bridges risky due to fears of spoofed deposit addresses.
+
+- **Source:** User Interviews
+- **Team Contributor(s):** Sasha Tanase Luca
+- **Theme/Topic:** Bridge UX
+- **Impact Level:** 🔥🔥🔥 High
+- **Knowledge Gap:** No
+- **Evidence:** *Bridge Experience*
+- **Next Steps:** Add visual verification for deposit addresses and encourage test sends.
+- **Linear Issue:** *Link*
+
+---
+
+### [Product][tBTC Generative User Research]💬 Users want recovery methods in case of failed bridging attempts.
+
+- **Source:** User Interviews
+- **Team Contributor(s):** Sasha Tanase Luca
+- **Theme/Topic:** Bridge UX
+- **Impact Level:** 🔥🔥🔥 High
+- **Knowledge Gap:** Yes 🔍 Needs more research – which recovery methods would users actually trust?
+- **Evidence:** *Safety Reinforcements*
+- **Next Steps:** Design and communicate a recovery flow for failed deposits.
+- **Linear Issue:** *Link*
+
+---
+
+### [Product][tBTC Generative User Research]💬 Users are unaware of tBTC signer limits, affecting perceived decentralization.
+
+- **Source:** User Interviews
+- **Team Contributor(s):** Sasha Tanase Luca
+- **Theme/Topic:** Protocol Design
+- **Impact Level:** 🔥🔥 Medium
+- **Knowledge Gap:** Yes 🔍 Needs more research – can signer transparency improve trust?
+- **Evidence:** *tBTC Bridge insight*
+- **Next Steps:** Add signer transparency UI showing validator set and their roles.
+- **Linear Issue:** *Link*
+
+---
+
+### [Product][tBTC Generative User Research]💬 Tax implications are often ignored or poorly understood by users.
+
+- **Source:** User Interviews
+- **Team Contributor(s):** Sasha Tanase Luca
+- **Theme/Topic:** Compliance
+- **Impact Level:** 🔥 Medium
+- **Knowledge Gap:** No
+- **Evidence:** *Taxable Events section*
+- **Next Steps:** Educate users with a short summary of taxable events within the dApp.
+- **Linear Issue:** *Link*
+
+---
+
