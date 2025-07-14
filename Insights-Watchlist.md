@@ -451,3 +451,132 @@
 - **Linear Issue:** *Pending creation*
 
 ---
+
+### [Product][Mezo Borrow 1]💬 Users don’t understand how BTC collateral is secured
+
+- **Source:** Mezo Borrow Hybrid User Study  
+- **Team Contributor(s):** Sasha Tanase Luca, Daniel Horvath  
+- **Theme/Topic:** BTC Custody Trust  
+- **Impact Level:** 🔥🔥🔥🔥Critical  
+- **Knowledge Gap:** 🔍 Needs more research – Users were unclear on how BTC is held, where it goes, and what "custody" looks like in a BTC-to-EVM context.  
+- **Evidence:** *“Who is holding the BTC?” / “Is this a smart contract?” / “I’m not sure how it works under the hood”*  
+- **Next Steps:** Visualize BTC custody flow and token mapping (e.g. tBTC) with clear, user-facing diagrams.  
+- **Linear Issue:** *Pending*
+
+---
+
+### [Product][Mezo Borrow 1]💬 Users expect loan terms and risk to be surfaced upfront
+
+- **Source:** Mezo Borrow Hybrid User Study  
+- **Team Contributor(s):** Sasha Tanase Luca, Daniel Horvath  
+- **Theme/Topic:** Loan UX  
+- **Impact Level:** 🔥🔥🔥High  
+- **Knowledge Gap:** No  
+- **Evidence:** *“Where do I see the loan duration?” / “How much will I pay back?”*  
+- **Next Steps:** Show repayment logic, interest, and risk level early in the borrow flow.  
+- **Linear Issue:** *Pending*
+
+---
+
+### [Product][Mezo Borrow 1]💬 Liquidation warnings were not understood
+
+- **Source:** Mezo Borrow Hybrid User Study  
+- **Team Contributor(s):** Sasha Tanase Luca, Daniel Horvath  
+- **Theme/Topic:** Liquidation Risk  
+- **Impact Level:** 🔥🔥🔥🔥Critical  
+- **Knowledge Gap:** 🔍 Needs more research – It’s unclear which aspect of liquidation risk (copy, math, or DeFi concept) isn’t understood.  
+- **Evidence:** *“I don’t know what liquidation means here.” / “I would never risk being liquidated”*  
+- **Next Steps:** Add a step-by-step explanation of what triggers liquidation and how users can prevent it.  
+- **Linear Issue:** *Pending*
+
+---
+
+### [Product][Mezo Borrow 1]💬 Users didn’t feel confident about repaying or recovering BTC
+
+- **Source:** Mezo Borrow Hybrid User Study  
+- **Team Contributor(s):** Sasha Tanase Luca, Daniel Horvath  
+- **Theme/Topic:** Repayment Trust  
+- **Impact Level:** 🔥🔥🔥High  
+- **Knowledge Gap:** 🔍 Needs more research – We need more evidence on whether doubt comes from product UI, bridge concerns, or DeFi anxiety.  
+- **Evidence:** *“How do I know I’ll get my BTC back?”*  
+- **Next Steps:** Add clarity around repayment, protocol guarantees, and what happens if the position is closed.  
+- **Linear Issue:** *Pending*
+
+---
+
+### [Product][Mezo Borrow 1]💬 Users preferred sliders over number inputs for LTV
+
+- **Source:** Mezo Borrow Hybrid User Study  
+- **Team Contributor(s):** Sasha Tanase Luca, Daniel Horvath  
+- **Theme/Topic:** LTV UX  
+- **Impact Level:** 🔥🔥Medium  
+- **Knowledge Gap:** No  
+- **Evidence:** *“It’d be easier if I could drag to choose the amount instead of calculating it.”*  
+- **Next Steps:** Add slider input and dynamic helper text for LTV and collateral ratio.  
+- **Linear Issue:** *Pending*
+
+### [Product][Mezo Borrow 1]💬 Users felt uncertain about what BTC is being used — unclear if native or wrapped
+
+- **Source:** Mezo Borrow Hybrid User Study  
+- **Team Contributor(s):** Sasha Tanase Luca, Daniel Horvath  
+- **Theme/Topic:** BTC Token Type  
+- **Impact Level:** 🔥🔥🔥🔥Critical  
+- **Knowledge Gap:** 🔍 Needs more research – Users didn’t understand if their BTC was bridged, wrapped, or something else.  
+- **Evidence:** *“Is this real BTC?” / “Am I bridging to Ethereum?”*  
+- **Next Steps:** Add simple, visual explanation of the BTC variant used (e.g. tBTC) and how it maps to Mezo.  
+- **Linear Issue:** *Pending*
+
+---
+
+### [Product][Mezo Borrow 1]💬 Some users believe they’re getting yield — even on borrowed assets
+
+- **Source:** Mezo Borrow Hybrid User Study  
+- **Team Contributor(s):** Sasha Tanase Luca, Daniel Horvath  
+- **Theme/Topic:** Borrowing Misconception  
+- **Impact Level:** 🔥🔥🔥 High  
+- **Knowledge Gap:** 🔍 Needs more research – It’s unclear if confusion comes from prior DeFi experience or unclear copy.  
+- **Evidence:** *“So I earn from this?” / “Do I get staking rewards?”*  
+- **Next Steps:** Clarify clearly where and when yield is earned — only in lending, not borrowing.  
+- **Linear Issue:** *Pending*
+
+---
+
+### [Product][Mezo Borrow 1]💬 Users want in-flow education, not external docs
+
+- **Source:** Mezo Borrow Hybrid User Study  
+- **Team Contributor(s):** Sasha Tanase Luca, Daniel Horvath  
+- **Theme/Topic:** Product Education  
+- **Impact Level:** 🔥🔥🔥 High  
+- **Knowledge Gap:** No  
+- **Evidence:** *“I won’t click docs. Just explain it right here.”*  
+- **Next Steps:** Embed education modules or collapsible FAQ directly in the dApp.  
+- **Linear Issue:** *Pending*
+
+---
+
+### [Product][Mezo Borrow 1]💬 Users don’t trust bridging flows or recovery options
+
+- **Source:** Mezo Borrow Hybrid User Study  
+- **Team Contributor(s):** Sasha Tanase Luca, Daniel Horvath  
+- **Theme/Topic:** Bridging Trust  
+- **Impact Level:** 🔥🔥🔥🔥Critical  
+- **Knowledge Gap:** 🔍 Needs more research – Some users fear they’ll lose funds if a bridge fails, especially across chains.  
+- **Evidence:** *“What happens if I mess up?” / “What if I lose access?”*  
+- **Next Steps:** Add explanations of fallback, support, and recovery logic during the bridge flow.  
+- **Linear Issue:** *Pending*
+
+---
+
+### [Product][Mezo Borrow 1]💬 Mobile users struggled with input precision and clarity
+
+- **Source:** Mezo Borrow Hybrid User Study  
+- **Team Contributor(s):** Sasha Tanase Luca, Daniel Horvath  
+- **Theme/Topic:** Mobile UX  
+- **Impact Level:** 🔥🔥Medium  
+- **Knowledge Gap:** No  
+- **Evidence:** *“It’s hard to type these amounts on mobile”*  
+- **Next Steps:** Improve touch inputs, add numeric presets and default options.  
+- **Linear Issue:** *Pending*
+
+---
+
