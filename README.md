@@ -1,6 +1,15 @@
 # Insights-repository-
 A repo aggregating all our study insights - hopefully adding to it as well DATA + MARKETING 
 
+# 🧠 Mezo Insights Repository
+
+This is the central repository for storing, generating, and reviewing user research insights from PDF interviews and other raw materials.
+
+Insights are extracted using **Claude**, optionally scripted for automation, and pushed here for structured storage, tagging, and reuse across teams.
+
+---
+
+## 📁 Folder Structure
 ```
 insights-repo/
 ├── .github/
@@ -17,13 +26,4 @@ insights-repo/
 └── README.md                    # Main repo documentation
 ```
 
-# 🧠 Mezo Insights Repository
-
-This is the central repository for storing, generating, and reviewing user research insights from PDF interviews and other raw materials.
-
-Insights are extracted using **Claude**, optionally scripted for automation, and pushed here for structured storage, tagging, and reuse across teams.
-
----
-
-## 📁 Folder Structure
 
